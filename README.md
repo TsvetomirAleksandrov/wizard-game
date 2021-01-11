@@ -5,5 +5,4 @@ Your are the SoftUni Wizard. You must kill all bugs with your fireball spell! Be
 Play: https://tsvetomiraleksandrov.github.io/wizard-game/
 
 Controls: 
-Movement - 'Arrow Keys'
-Fire - 'Space'
+Movement - 'Arrow Keys'; Fire - 'Space';
